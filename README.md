@@ -1,0 +1,1 @@
+# Cypress_CI_AllureReport
