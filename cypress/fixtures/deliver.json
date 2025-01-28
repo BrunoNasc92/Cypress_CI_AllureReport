@@ -1,0 +1,54 @@
+{
+
+"signup" : {
+    "name": "Teste T Test",
+    "cpf": "40001447889",
+    "email": "b9@gmail.com",
+    "whatsapp": "11941144789",
+    "address": {
+        "postalcode": "09175450",
+        "street": "Rua Jaspeu",
+        "number": "74",
+        "details": "ap 4",
+        "district": "Vila Gema",
+        "city_state": "São Bernardo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "download (32).jpg"
+},
+
+"cpf_inv" : {
+    "name": "Benicio B Brian",
+    "cpf": "40104357884",
+    "email": "teste.nasc.1999@gmail.com",
+    "whatsapp": "11944589999",
+    "address": {
+        "postalcode": "09145440",
+        "street": "Rua Jales",
+        "number": "41",
+        "details": "",
+        "district": "Jardim Helena",
+        "city_state": "Santo André/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "download (32).jpg"
+
+    },
+    
+    "email_inv" : {
+       "name": "Teste Segundo T",
+        "cpf": "44404447889",
+        "email": "b10@gmail.com",
+        "whatsapp": "11941144789",
+        "address": {
+            "postalcode": "09175444",
+            "street": "Rua Daniel Berg",
+            "number": "97",
+            "details": "ap 65",
+            "district": "Vila Lesma",
+            "city_state": "Santo André/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "download (32).jpg"
+    }
+}
